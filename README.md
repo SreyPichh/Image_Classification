@@ -24,6 +24,7 @@ builder.showInLiveView()
 That is it and make sure you enable *Live View feature in Xcode Playground* and you will able to see the visual interface.
 
  **Demo**
+ 
 ![demo.gif](https://qiita-image-store.s3.amazonaws.com/0/279562/91393752-7033-ffc1-1b6a-bdae7ba37eab.gif)
 
 
