@@ -9,7 +9,7 @@ We will prepare our dataset to test with create ML, in this article I will creat
 
 # Create ML Playgrounds & Training data
 
-In Xcode playgrounds for training, evaluating machine learning models.s
+In Xcode playgrounds for training, evaluating machine learning models.
 ![Screen Shot 2018-11-14 at 12.18.55 AM.png](https://qiita-image-store.s3.amazonaws.com/0/279562/cb3649c5-3aae-816a-cb8f-2b6c899a9216.png)
 
 It is crucial that you select the Blank template under macOS because **create ML** framework isn't support for iOS playground.
