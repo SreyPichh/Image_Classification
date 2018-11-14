@@ -1,5 +1,3 @@
-# Image_Classification
-
 # Introduction 
 
 **Create ML** is an Apple's Framework in which for easy Machine Learning Model Training on Macs. You can extract meaningful insights, or finding relationships between numbers. **Create ML** harnesses the machine learning infrastructure built into the software. 
