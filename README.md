@@ -7,7 +7,8 @@
 # Dataset
 We will prepare our dataset to test with create ML, in this article I will create **image classification** to classify between cats and dogs and tigers. You can add as many images with as many labels as we want, but for simplicity, I will be building an image that recognize cats, dogs, and tigers. When you open the folder, you will see two more folders, *Testing data* and *Training data*.  
 
-#Create ML Playgrounds & Training data
+# Create ML Playgrounds & Training data
+
 In Xcode playgrounds for training, evaluating machine learning models.s
 ![Screen Shot 2018-11-14 at 12.18.55 AM.png](https://qiita-image-store.s3.amazonaws.com/0/279562/cb3649c5-3aae-816a-cb8f-2b6c899a9216.png)
 
