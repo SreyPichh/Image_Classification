@@ -1,9 +1,10 @@
 # Image_Classification
 
-#Introduction 
+# Introduction 
+
 **Create ML** is an Apple's Framework in which for easy Machine Learning Model Training on Macs. You can extract meaningful insights, or finding relationships between numbers. **Create ML** harnesses the machine learning infrastructure built into the software. 
 
-#Dataset
+# Dataset
 We will prepare our dataset to test with create ML, in this article I will create **image classification** to classify between cats and dogs and tigers. You can add as many images with as many labels as we want, but for simplicity, I will be building an image that recognize cats, dogs, and tigers. When you open the folder, you will see two more folders, *Testing data* and *Training data*.  
 
 #Create ML Playgrounds & Training data
